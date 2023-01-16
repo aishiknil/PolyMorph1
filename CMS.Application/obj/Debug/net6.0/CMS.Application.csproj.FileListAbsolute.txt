@@ -1,0 +1,15 @@
+C:\Users\beraa\Desktop\C#\PolyM\CMS.Application\bin\Debug\net6.0\CMS.Application.exe
+C:\Users\beraa\Desktop\C#\PolyM\CMS.Application\bin\Debug\net6.0\CMS.Application.deps.json
+C:\Users\beraa\Desktop\C#\PolyM\CMS.Application\bin\Debug\net6.0\CMS.Application.runtimeconfig.json
+C:\Users\beraa\Desktop\C#\PolyM\CMS.Application\bin\Debug\net6.0\CMS.Application.dll
+C:\Users\beraa\Desktop\C#\PolyM\CMS.Application\bin\Debug\net6.0\CMS.Application.pdb
+C:\Users\beraa\Desktop\C#\PolyM\CMS.Application\obj\Debug\net6.0\CMS.Application.csproj.AssemblyReference.cache
+C:\Users\beraa\Desktop\C#\PolyM\CMS.Application\obj\Debug\net6.0\CMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beraa\Desktop\C#\PolyM\CMS.Application\obj\Debug\net6.0\CMS.Application.AssemblyInfoInputs.cache
+C:\Users\beraa\Desktop\C#\PolyM\CMS.Application\obj\Debug\net6.0\CMS.Application.AssemblyInfo.cs
+C:\Users\beraa\Desktop\C#\PolyM\CMS.Application\obj\Debug\net6.0\CMS.Application.csproj.CoreCompileInputs.cache
+C:\Users\beraa\Desktop\C#\PolyM\CMS.Application\obj\Debug\net6.0\CMS.Application.dll
+C:\Users\beraa\Desktop\C#\PolyM\CMS.Application\obj\Debug\net6.0\refint\CMS.Application.dll
+C:\Users\beraa\Desktop\C#\PolyM\CMS.Application\obj\Debug\net6.0\CMS.Application.pdb
+C:\Users\beraa\Desktop\C#\PolyM\CMS.Application\obj\Debug\net6.0\CMS.Application.genruntimeconfig.cache
+C:\Users\beraa\Desktop\C#\PolyM\CMS.Application\obj\Debug\net6.0\ref\CMS.Application.dll
